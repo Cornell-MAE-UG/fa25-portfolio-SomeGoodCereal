@@ -1,0 +1,12 @@
+---
+layout: project
+title: O6-Final Client Pitch
+description: Final Client Pitch and Design of "A Totally Inconspicuous Bag"
+image: /assets/images/FinalPrototype.png
+---
+<iframe 
+  src="{{ '/assets/O6_ClientReport.pdf#toolbar=0&navpanes=0&scrollbar=0' | relative_url }}" 
+  width="100%" 
+  height="800px"
+  style="border:none;">
+</iframe>
