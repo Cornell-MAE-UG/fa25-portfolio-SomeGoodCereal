@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Client Pitch SLFs
+title: O3-First Client Pitch SLFs
 description: A design concept meant to solve the issue of SLFs
 image: /assets/images/trapsketch.png
 ---
